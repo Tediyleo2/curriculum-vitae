@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Curriculum Vitae</title>
+</head>
+<style>/*Cambiar el color del texto a plateado*/ 
+body{color:black;
+}
+/*Cambiar el color del fondo a rojo*/ 
+body{background-color:lightblue;
+}
+</style>
+<body>
+<div class= "img-container">
+<center><img Src="perfil.jpg" alt="Imagen de perfil"></center>
+</div>
+<h1>Francisco Jafer Ricoy Agustiniano</h1>
+<h1>Estudios</h1>
+<h2>Universidad de la costa(Uncos)</h2>
+<h3>Licenciatura en ciencias empresariales
+<h1>Idioma</h1>
+<h2>Ingles avanzado</h2>
+<h2>Español nativo</h2>
+<h1>Herramientas de software</h1>
+<h2>Hoja de calculo</h2>
+<h2>Presentacion de diapositivas</h2>
+<h2>Google Analytics basico</h2>
+<h1>Experiencia laboral</h1>
+<h2>Comision Federal de Electricidad CFE(Estancia profesional)</h2>
+<h1>Contacto</h1>
+<h2>Numero:9541531077</h2>
+<h2>Correo:tediyleo2@gmail.com</h2>
+</body>
+</html>
